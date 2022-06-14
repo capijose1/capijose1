@@ -22,7 +22,7 @@
 
 
 <p align="left">
-  <a href="https://github.com/capijose1/Silki"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?capijose=anuraghazra&repo=Silki" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/capijose1/Silki"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=capijose1&repo=Silki" alt="github-readme-streak-stats"></a>
 </p>
 
 <p align="left">
