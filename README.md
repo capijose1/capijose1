@@ -22,11 +22,11 @@
 
 
 <p align="left">
-  <a href="https://github.com/capijose1/Silki"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Andre6-dev&repo=Profinder_Project3&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/capijose1/Silki"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=capijose1&repo=Silki3&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/Andre6-dev?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/capijose1?tab=repositoriess"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 
@@ -81,7 +81,7 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Capijose1 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=capijose1&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andre6-dev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capijose1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Capijose1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capijose1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 </details>
 
