@@ -7,9 +7,9 @@
   <img src="https://c.tenor.com/QyKpNDRCLaMAAAAd/pingu-stare.gif" width="450"/>
 </div>
 
-<!-- Typing SVG by capijose1 - https://github.com/capijose1/readme-typing-svg -->
+<!-- Typing SVG by DenverCoder1 - https://github.com/capijose1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/capijose1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=D43F68&center=true&lines=Welcome+to+my+profile!;Aspiring+to+be+a+full+stack+and+app+developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Si+se+puede+so%C3%B1ar%2C+se+puede+programar!+"></a>
 </p>
 
 <!-- Social icons section -->
